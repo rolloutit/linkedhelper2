@@ -56,7 +56,7 @@ Claims are also tagged `[LH-CLAIM]` (vendor says it), `[LI-POLICY]` (LinkedIn's 
 This repo is its own single-plugin marketplace, so two commands install it:
 
 ```bash
-/plugin marketplace add rolloutit/linkedinhelper2
+/plugin marketplace add rolloutit/linkedhelper2
 /plugin install linkedinhelper2@rolloutit
 ```
 
