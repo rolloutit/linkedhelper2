@@ -1,4 +1,4 @@
-# LinkedinHelper2
+# LinkedHelper2
 
 A Claude skill that turns Claude into a competent **Linked Helper 2** operator: the desktop
 LinkedIn automation app. It knows the actual UI, the actual limits, the plug-in system, the
